@@ -1,4 +1,4 @@
 contents
 ===
 - bio_prediction   
-predict reflect light rate for detecting brain disease 
+predict reflected light rate for detecting brain disease 
